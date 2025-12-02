@@ -1,0 +1,49 @@
+{
+  "brand.name": "NAVA PEACE",
+
+  "menu.why": "Pourquoi",
+  "menu.manifesto": "Manifeste",
+  "menu.how": "Comment ça marche",
+  "menu.app": "L’application",
+  "menu.play": "Comment jouer",
+  "menu.blockchain": "Blockchain",
+  "menu.foundation": "Fondation",
+  "menu.vision": "Vision",
+  "menu.founder": "Fondateur",
+  "menu.contact": "Contact",
+
+  "hero.tagline": "La paix commence avec toi. Si ce n’est pas maintenant, quand ?",
+  "hero.title": "L’humanité choisit la paix aujourd’hui.",
+  "hero.text": "NAVA PEACE est un mouvement mondial qui unit des millions de cœurs par un simple geste quotidien de paix. Un clic. Une intention. Une force collective qui éclaire notre monde.",
+  "hero.joinCta": "Rejoindre le mouvement",
+  "hero.manifestoCta": "Lire le manifeste",
+  "hero.subnote": "Web • App • Blockchain • Fondation — conçus pour un futur pacifique.",
+
+  "why.title": "Pourquoi NAVA PEACE ?",
+  "why.intro": "« Une simple app pour l’homme, un pas de géant pour la paix. » La guerre divise, la peur paralyse, mais la paix est un choix que nous pouvons renouveler chaque jour. NAVA PEACE transforme cette décision intérieure en un mouvement mondial visible.",
+
+  "why.innerChoice.title": "Choix intérieur",
+  "why.innerChoice.text": "Chaque utilisateur commence par un geste quotidien simple : « Aujourd’hui, je choisis la paix pour moi-même, pour les autres et pour notre monde. »",
+
+  "why.globalSignal.title": "Signal global",
+  "why.globalSignal.text": "Des millions de taps forment une carte de lumière — une preuve vivante que l’humanité est encore capable de compassion, d’unité et de courage.",
+
+  "why.realImpact.title": "Impact réel",
+  "why.realImpact.text": "Grâce à la blockchain et à la fondation NAVA PEACE, l’engagement numérique finance un soutien concret aux personnes touchées par la guerre et la violence.",
+
+  "manifesto.title": "NAVA PEACE — MANIFESTE PHILOSOPHIQUE",
+  "manifesto.content": ""
+}
+{
+  "why.title": "Pourquoi NAVA PEACE ?",
+  "why.intro": "Une simple app pour l’homme, un pas de géant pour la paix. La guerre divise, la peur paralyse, mais la paix est un choix que nous pouvons renouveler chaque jour. NAVA PEACE transforme cette décision intérieure en un mouvement mondial visible.",
+
+  "why.innerChoice.title": "Choix Intérieur",
+  "why.innerChoice.text": "Chaque utilisateur commence par un geste simple : « Aujourd’hui, je choisis la paix pour moi, pour les autres, et pour notre monde. »",
+
+  "why.globalSignal.title": "Signal Global",
+  "why.globalSignal.text": "Des millions de taps forment une carte de lumière — la preuve vivante que l’humanité est encore capable de compassion, d’unité et de courage.",
+
+  "why.realImpact.title": "Impact Réel",
+  "why.realImpact.text": "Grâce à la blockchain et la fondation NAVA PEACE, chaque geste numérique finance une aide concrète pour les personnes touchées par la guerre."
+}

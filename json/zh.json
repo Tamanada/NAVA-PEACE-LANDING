@@ -1,0 +1,49 @@
+{
+  "brand.name": "NAVA PEACE",
+
+  "menu.why": "为什么",
+  "menu.manifesto": "宣言",
+  "menu.how": "运作方式",
+  "menu.app": "应用程序",
+  "menu.play": "如何参与",
+  "menu.blockchain": "区块链",
+  "menu.foundation": "基金会",
+  "menu.vision": "愿景",
+  "menu.founder": "创始人",
+  "menu.contact": "联系我们",
+
+  "hero.tagline": "和平始于你。如果不是现在，那是什么时候？",
+  "hero.title": "人类今天选择和平。",
+  "hero.text": "NAVA PEACE 是一个全球性运动，通过一个简单的每日和平动作连接数百万颗心。一次点击。一个意念。一股点亮世界的集体力量。",
+  "hero.joinCta": "加入运动",
+  "hero.manifestoCta": "阅读宣言",
+  "hero.subnote": "网页 • 应用 • 区块链 • 基金会 — 为和平未来而打造。",
+
+  "why.title": "为什么选择 NAVA PEACE？",
+  "why.intro": "“对人类来说是一个简单的应用，对和平来说是一大步。” 战争分裂，恐惧麻痹，但和平是我们每天可以重新选择的决定。",
+
+  "why.innerChoice.title": "内在选择",
+  "why.innerChoice.text": "每个用户都从一个简单的每日动作开始：“今天，我选择为自己、为他人、为我们的世界带来和平。”",
+
+  "why.globalSignal.title": "全球信号",
+  "why.globalSignal.text": "数百万次点击形成一张光之地图——活生生的证明人类仍有能力展现同情、团结和勇气。",
+
+  "why.realImpact.title": "现实影响",
+  "why.realImpact.text": "通过区块链和基金会，数字参与为受战争影响的人们提供实际支持。",
+
+  "manifesto.title": "NAVA PEACE — 哲学宣言",
+  "manifesto.content": ""
+}
+{
+  "why.title": "为什么选择 NAVA PEACE？",
+  "why.intro": "一个简单的应用，对人类来说是一小步，对和平来说是一大步。战争让人分裂，恐惧让人麻痹，但和平是我们每天都能重新选择的决定。NAVA PEACE 将这种内心的选择转化为一个可见的全球运动。",
+
+  "why.innerChoice.title": "内在选择",
+  "why.innerChoice.text": "每个用户从一个简单的日常动作开始：“今天，我为自己、为他人、为世界选择和平。”",
+
+  "why.globalSignal.title": "全球信号",
+  "why.globalSignal.text": "数百万次点击形成一张光之地图，证明人类仍然拥有同情、团结和勇气。",
+
+  "why.realImpact.title": "现实影响",
+  "why.realImpact.text": "通过 NAVA PEACE 区块链和基金会，数字参与为受战争影响的人们提供切实支持。"
+}

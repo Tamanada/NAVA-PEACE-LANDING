@@ -1,0 +1,346 @@
+One page site.
+
+Title: "NAVA PEACE" font: on top
+the logo(logo+black.png) centered at the middle.
+
+-Display my quote in an elegant, peaceful handwriting style: font=KALAM
+"That's one small app for man,
+One giant leap for mankind."
+A.A.
+
+Here are the Colors (HEX)
+Background Blue: #4EC2FE
+Pure White: #FFFFFF
+Dove White: #F7F7F1
+Warm White: #E7E1D4
+Halo/Soft White: #F0EDE4
+Olive Green: #91A13F
+
+# ⭐ 1. Un HERO SECTION qui hypnotise en 3 secondes
+
+C’est la zone la plus importante.
+
+Elle doit contenir :
+
+### ✔ Logo NAVA PEACE logo+black.png
+
+### ✔ Un slogan puissant: "Start with Peace, change everything."
+
+
+### ✔ Un visuel fort
+
+
+* un halo doré
+* une légère animation
+* un fond noir premium qui va se degrader en bleu #4EC2FE
+
+### ✔ Une phrase courte qui résume le projet: 
+**“A global movement uniting millions through a simple daily act of peace.”**
+"If not now, then when?"
+
+A large button "Today I stand for peace, for all, all around the world." (nava_peace_button.png)
+- a light animation once the daily action is done. 
+
+Ex: A inspiring message from the list message, in frnt of the message white, blue and red hearts flying across the screen for 5 seconds.
+Inspiration messages:
+Choose peace. Change everything.
+Today is a new light.
+Be the calm in chaos.
+Peace begins inside you.
+One heart can change many.
+Your kindness shapes the world.
+Light always finds a way.
+Choose compassion every time.
+Peace grows where love stays.
+Today, spread gentle strength.
+You are someone’s hope.
+Your peace inspires others.
+Small acts create big futures.
+Shine softly, shine strong.
+Kindness never goes unnoticed.
+Peace is your superpower.
+Become the light you seek.
+Heal with every breath.
+Stand calm. Stand bright.
+You make the world warmer.
+
+### ✔ Un bouton clair
+
+* **“Join the Movement”** link to download the app.
+
+* **“Discover the manifesto for Peace”**
+Ici tu montreras eulement le debut du texte, si le visiteur est interresse il cliques sur "Lire plus" et la tout le texte s'affiche.
+
+NAVA PEACE
+PHILOSOPHICAL MANIFESTO
+
+“Every day, humanity chooses itself. Today, we choose peace.”
+There exists a moment, invisible yet decisive, when a civilization chooses who it wants to become.
+ This moment is neither political nor religious nor economic.
+ It is internal. Silent. Individual.
+ It is born from a gesture, an intention, a choice.
+That gesture is peace.  And that choice is ours.
+NAVA PEACE arises from a simple and profound conviction:
+ Peace is not an event. It is a practice.
+ It does not depend on governments, treaties, or the powerful, but on the quiet strength of ordinary hearts that choose not to surrender to fear or hatred.
+Every time a human being clicks the button  “Today, I choose peace,”  they affirm something greater than themselves:  peace is possible, here, now, starting from within.
+It is an act both humble and revolutionary.
+We are the generation that refuses the inevitability of violence.
+For centuries, the world has learned to structure war, armies, strategies, budgets, alliances, industries.
+
+
+But humanity has never built an infrastructure for peace.
+It has never created a global, universal space where every individual can take part,  where every gesture is valued, where every act of peace strengthens the world in a tangible way.
+NAVA PEACE is this first structure.
+A worldwide network of consciousness.
+ An economy of kindness.
+ A planetary ritual of compassion and unity.
+🌿
+“Peace is not a theory. It is a discipline.”
+It is cultivated like a muscle.Practiced like an art. It requires presence, effort, and constancy.
+A daily gesture, repeated by millions, becomes a civilizational direction.
+A planetary habit. A momentum that transcends borders, languages, religions and identities.
+When we choose peace each morning,  we train ourselves to be greater than our fears,  stronger than our wounds, steadier than our anger.
+We become human beings capable of loving the world despite its shadows.
+✨
+This manifesto belongs to all 
+who refuse to answer violence with violence.
+To those who know that peace is not naïve:  it is courageous.
+To those who understand that peace is not weakness:  it is mastery.
+To those who see that peace is not a dream: it is a daily construction, steady, patient, real.
+To those who have been hurt, yet choose healing over transmitting pain.
+To those who have lost everything, yet refuse to lose their humanity.
+To those who dream of a world where our children no longer have to choose between fear and freedom.
+🌙 NAVA PEACE is our silent oath
+We cannot change the past.
+But we can create a future where peace is no longer the exception, but the norm.
+A future where the world rises every day,  gesture after gesture,  heart after heart, click after click.
+A future where peace is no longer a word, but a movement.
+🔥 We are the bearers of light of this century
+We are those who refuse resignation.
+Those who choose unity.
+Those who want to build a world where human dignity stands stronger than hatred.
+We are NAVA PEACE.
+We are humanity awakening.
+We are the beginning of a new world.
+And each day, through a simple gesture,  we write together the most beautiful sentence in human history:
+Today, for me, for you, for us, I choose peace.
+
+
+
+---
+
+# ⭐ 2. Une section « Why Nava Peace? » émotionnelle & logique
+
+Beaucoup d’investisseurs et partenaires veulent comprendre **le sens**.
+
+Inclure :
+
+### ✔ Pourquoi ce projet existe
+
+“La guerre détruit. La paix se construit.”
+
+### ✔ Les constats du monde actuel
+
+Conflits, divisions, manque de repères…
+
+### ✔ L’idée révolutionnaire
+
+« Un geste simple, répété par des millions → un impact global. »
+
+### ✔ Un storytelling court et spirituel
+
+Tu sais le faire très bien.
+
+---
+
+# ⭐ 3. Une section « How It Works » en 3 points maximum
+
+Les gens doivent comprendre immédiatement.
+
+Exemple :
+
+### 1️⃣ **Daily Tap**
+
+Chaque jour, un utilisateur appuie et choisit la paix.
+
+### 2️⃣ **Global Map**
+
+La communauté se visualise en temps réel partout dans le monde.
+
+### 3️⃣ **Peace Economy**
+
+Une blockchain + un token pour soutenir actions et fondations humanitaires.
+
+Simple, clair, puissant.
+
+---
+
+# ⭐ 4. Une section « The Vision »
+
+C’est ici que tu mets la profondeur.
+
+### ✔ La grande vision
+
+“Créer la première civilisation digitale basée sur la paix, l’entraide et la solidarité.”
+
+### ✔ Les piliers
+
+* Paix
+* Technologie
+* Humanité
+* Art
+* Blockchain
+* Collectif
+
+### ✔ Le long terme
+
+* L’App
+* La Fondation Nava Peace
+* Les actions humanitaires
+* Les partenariats mondiaux
+
+---
+
+# ⭐ 5. Une section « The App »
+
+Même si elle n’est pas encore sortie :
+
+### ✔ Une mockup (image) du futur écran
+
+### ✔ Les features principales
+
+* Daily tap
+* Map
+* Messages inspirants
+* Wallet & blockchain
+* Communauté mondiale
+* Support aux ONG
+
+---
+
+# ⭐ 6. Une section « The Foundation »
+
+Pour inspirer confiance.
+
+Inclure :
+
+### ✔ Mission humanitaire
+
+### ✔ Axe d’action (aide aux victimes, reconstruction, support ONG)
+
+### ✔ Transparence
+
+### ✔ Impact mesurable
+
+Beaucoup d’investisseurs se rallient **à la cause** plus qu’à la tech.
+
+---
+
+# ⭐ 7. Une section « Join / Donate / Invest »
+
+Elle doit être magnifique.
+Pas agressive.
+Inspirante.
+
+### ✔ “Join the Movement”
+
+### ✔ “Become a Peace Guardian”
+
+### ✔ “Support the Foundation”
+
+### ✔ “Become a SEED Partner (Only 1 allowed)”
+
+Un seul bouton peut suffire :
+**“Get Involved”**
+
+---
+
+# ⭐ 8. Une section “About the Founder”
+
+Pour cette version mon nom est August Alan, c’est ici que tu fais la différence.
+
+Tu as un vécu unique :
+
+* vie internationale
+* engagement humanitaire
+* rêve de réunir les hommes
+* projets ambitieux
+* philosophie profonde
+
+Un paragraphe court + une photo simple et authentique suffit.
+
+Tu es la preuve vivante que ce projet n’est pas “tech only”, mais **humain**.
+
+---
+
+# ⭐ 9. Une section “Roadmap”
+
+Ultra simple.
+
+### Q1 2025 : Landing Page + Vision
+
+### Q2 2025 : App Alpha
+
+### Q3 2025 : Blockchain + Map
+
+### Q4 2025 : Global Peace Network
+
+### 2026 : First 100M users goal
+
+### 2027 : Peace Economy fully functional
+
+Ça donne du sérieux.
+De la direction.
+Un objectif.
+
+---
+
+# ⭐ 10. Footer complet
+
+* liens sociaux
+* email
+* logo petit
+* copyright
+* contact investisseurs
+* lien vers la fondation
+
+---
+
+# 🎯 Résumé : Ce qu’un site NAVA PEACE doit absolument transmettre
+
+### ✔ Impact global
+
+### ✔ Mission humanitaire
+
+### ✔ Vision spirituelle
+
+### ✔ Technologie sérieuse
+
+### ✔ Esthétique premium noir/or
+
+### ✔ Confiance instantanée
+
+### ✔ Grandeur du mouvement
+
+---
+
+# 👉 Si tu veux,
+
+je peux maintenant te créer :
+
+### 🔥 **La version finale de ton site**
+
+avec **toutes ces sections déjà prêtes** + ton style + ton logo + animations.
+
+Juste dis-moi :
+
+👉 Tu veux une version :
+1️⃣ Minimaliste premium
+2️⃣ Spirituelle & lumineuse
+3️⃣ Ultra-investisseur (VC / SEED)
+4️⃣ “Impact + Humanité”
+5️⃣ Mélange équilibré de tout ça
+
+Choisis 1 à 5,
+et je te construis la page complète.

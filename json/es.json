@@ -1,0 +1,49 @@
+{
+  "brand.name": "NAVA PEACE",
+
+  "menu.why": "Por qué",
+  "menu.manifesto": "Manifiesto",
+  "menu.how": "Cómo funciona",
+  "menu.app": "La App",
+  "menu.play": "Cómo jugar",
+  "menu.blockchain": "Blockchain",
+  "menu.foundation": "Fundación",
+  "menu.vision": "Visión",
+  "menu.founder": "Fundador",
+  "menu.contact": "Contacto",
+
+  "hero.tagline": "La paz comienza contigo. Si no es ahora, ¿cuándo?",
+  "hero.title": "La humanidad elige la paz hoy.",
+  "hero.text": "NAVA PEACE es un movimiento global que une millones de corazones mediante un simple acto diario de paz. Un toque. Una intención. Una fuerza colectiva que ilumina nuestro mundo.",
+  "hero.joinCta": "Únete al movimiento",
+  "hero.manifestoCta": "Leer el manifiesto",
+  "hero.subnote": "Web • App • Blockchain • Fundación — creados para un futuro pacífico.",
+
+  "why.title": "¿Por qué NAVA PEACE?",
+  "why.intro": "«Una simple app para el hombre, un gran paso para la paz.» La guerra divide, el miedo paraliza, pero la paz es una elección que podemos renovar cada día.",
+
+  "why.innerChoice.title": "Elección interna",
+  "why.innerChoice.text": "Cada usuario comienza con un gesto diario simple: «Hoy elijo la paz para mí, para los demás y para nuestro mundo.»",
+
+  "why.globalSignal.title": "Señal global",
+  "why.globalSignal.text": "Millones de toques forman un mapa de luz — prueba viva de que la humanidad aún es capaz de compasión, unidad y coraje.",
+
+  "why.realImpact.title": "Impacto real",
+  "why.realImpact.text": "A través de la blockchain y la fundación, la participación digital financia apoyo real a personas afectadas por la guerra.",
+
+  "manifesto.title": "NAVA PEACE — MANIFIESTO FILOSÓFICO",
+  "manifesto.content": ""
+}
+{
+  "why.title": "¿Por qué NAVA PEACE?",
+  "why.intro": "Una simple aplicación para el hombre, un gran paso para la paz. La guerra divide, el miedo paraliza, pero la paz es una elección que podemos renovar cada día. NAVA PEACE transforma esta elección interior en un movimiento global visible.",
+
+  "why.innerChoice.title": "Elección Interior",
+  "why.innerChoice.text": "Cada usuario comienza con un gesto diario simple: “Hoy elijo la paz para mí, para los demás y para nuestro mundo.”",
+
+  "why.globalSignal.title": "Señal Global",
+  "why.globalSignal.text": "Millones de toques forman un mapa de luz, prueba viviente de que la humanidad aún es capaz de compasión, unidad y coraje.",
+
+  "why.realImpact.title": "Impacto Real",
+  "why.realImpact.text": "A través de la blockchain y la fundación NAVA PEACE, la participación digital financia apoyo concreto para las personas afectadas por la guerra."
+}

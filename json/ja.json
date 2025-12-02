@@ -1,0 +1,49 @@
+{
+  "brand.name": "NAVA PEACE",
+
+  "menu.why": "なぜ",
+  "menu.manifesto": "マニフェスト",
+  "menu.how": "仕組み",
+  "menu.app": "アプリ",
+  "menu.play": "参加方法",
+  "menu.blockchain": "ブロックチェーン",
+  "menu.foundation": "財団",
+  "menu.vision": "ビジョン",
+  "menu.founder": "創設者",
+  "menu.contact": "お問い合わせ",
+
+  "hero.tagline": "平和はあなたから始まる。今でなければ、いつ？",
+  "hero.title": "人類は今日、平和を選ぶ。",
+  "hero.text": "NAVA PEACE は、毎日のシンプルな平和のアクションを通じて、数百万の心をつなぐ世界的なムーブメントです。ひとつのタップ。ひとつの意図。世界を灯す集合的な力。",
+  "hero.joinCta": "ムーブメントに参加",
+  "hero.manifestoCta": "マニフェストを読む",
+  "hero.subnote": "ウェブ • アプリ • ブロックチェーン • 財団 — 平和な未来のために構築。",
+
+  "why.title": "なぜ NAVA PEACE なのか？",
+  "why.intro": "「人類にとっては小さなアプリ、平和にとっては大きな一歩。」戦争は分断し、恐怖は麻痺させる。しかし平和は、私たちが毎日選ぶことのできる決断である。",
+
+  "why.innerChoice.title": "内なる選択",
+  "why.innerChoice.text": "すべてのユーザーは、毎日のシンプルな行動から始めます。「今日は、自分のため、他者のため、世界のために平和を選びます。」",
+
+  "why.globalSignal.title": "グローバルシグナル",
+  "why.globalSignal.text": "数百万のタップが光の地図を形成し、人類が今もなお思いやり、団結、勇気を持っている証となる。",
+
+  "why.realImpact.title": "現実的なインパクト",
+  "why.realImpact.text": "NAVA PEACE のブロックチェーンと財団を通じて、デジタル参加が戦争被害者への具体的な支援を生み出す。",
+
+  "manifesto.title": "NAVA PEACE — 哲学的マニフェスト",
+  "manifesto.content": ""
+}
+{
+  "why.title": "なぜ NAVA PEACE なのか？",
+  "why.intro": "人類にとっては小さなアプリ、平和にとっては大きな一歩。戦争は分断し、恐怖は麻痺させる。しかし平和は、毎日新たに選べる決断である。NAVA PEACE はこの内なる選択を、目に見える世界的ムーブメントへと変える。",
+
+  "why.innerChoice.title": "内なる選択",
+  "why.innerChoice.text": "すべてのユーザーは、毎日のシンプルな行動から始める。「今日は、自分のため、他者のため、世界のために平和を選びます。」",
+
+  "why.globalSignal.title": "グローバルシグナル",
+  "why.globalSignal.text": "数百万のタップが光の地図を形成し、人類が今もなお思いやり、団結、そして勇気を持っている証となる。",
+
+  "why.realImpact.title": "現実的なインパクト",
+  "why.realImpact.text": "NAVA PEACE のブロックチェーンと財団を通じて、デジタル参加が戦争被害者への具体的な支援を生み出す。"
+}

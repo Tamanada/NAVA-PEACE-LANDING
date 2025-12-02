@@ -1,0 +1,111 @@
+1. telecharger l'app via le lien, créer un profil, choisir son avatar, recevoir son premier badge de Peace Lover.
+
+2. Vous devez ouvrir l'app une fois par 24 heures, lorsque votre niveau de jeu est "PEACE LOVER", cliquer sur le bouton "Today I stand for peace, for all, all around the world." et voila; votre action du jour pour la paix dans le monde est faite, vous pouvez retourner a vos occupations, on se retrouve demain. Avant de partir regler votre alarme a une heure ou tous les jours vous viendrez cliquer "Today I stand for peace, for all, all around the world." Merci et bonne journee.
+En invitant tous vos amis a vivre en paix, vous recevrez des tokens en reward, invitez tous le monde!
+
+3.presser le bouton et inviter ses amis sont les deux fonctions de base, plus tard, des tasks tels que: regarder une video, participer a un evenement autour du theme de la paix, faire un don, realisee par votre cercle (vos amis ou par des membres de la communaute, par exeple vous participez a une manif pacifiste et vous rencontrez des activistes NAVA PEACE partager votre QR et recevez un token).....donnerons droit a dres recompenses.
+
+4. Comment acheter les NFTs.
+Les NFTs seront accessibles des le premier jour du lancement de l'app, leur paiement se fera via credit carte ou crypto.
+
+voici les titres:
+PEACE LOVER, il est gratuit, donne droit a x 1 clic par jour. 
+Possibilite de gagner 1 NFT gratuit du niveau PEACE GARDENER si 500 referrals(filleuls) actifs.
+
+PEACE GARDENER, $150, donne droit a x 2 clic par jour.
+Possibilite de gagner 1 NFT gratuit du niveau PEACE GUIDE pour 1000 referrals(filleuls) actifs.
+
+PEACE GUIDE, $150,   x 3 clics par jour.
+Possibilite de gagner 1 NFT gratuit du niveau PEACE GUARDIANS pour 1500 referrals(filleuls) actifs.
+
+PEACE GUARDIAN, $225,  x 4 clics par jour, 
+Possibilite de gagner 1 NFT gratuit du niveau PEACE ILLUMINATOR pour 2000 referrals(filleuls) actifs.
+
+PEACE ILLUMINATOR, $330, x 5 clics par jour.
+Possibilite de gagner 1 NFT gratuit du niveau PEACE LEGEND pour 2500 referrals(filleuls) actifs.
+
+PEACE LEGEND, $500, x 6 clics par jour.
+
+le PEACE ANGELS "BOOSTER", $1500, x 10 clics par jour. You jump directly from LOVER to LEGEND by buying the ANGEL's booster, save time, minte more. 
+
+Benefices supplementaires:
+Les porteurs de NFT recevront une remise sur tous nos produits physiques, le discount est en relation avec leur niveau.
+PEACE LOVER, 5%
+PEACE GARDENER,7%
+PEACE GUIDE, 9%
+PEACE GUARDIAN,11% 
+PEACE ILLUMINATOR, 13% 
+PEACE LEGEND, 15%
+PEACE ANGELS, 20%
+PEACE POWER, 30%
+
+
+5. A miner plus, a acceler le minage de vos tokens, donc a collecter plus de tokens.
+
+6. le minage individuel recompense le joueur seul.
+Le minage communautaire recompense le mineur pour sa participation ainsi que pour le chaque mineur qu'il a engage dasn l'avsenture.
+- la saison de minage durera 180 jours pour la saison 1, c'est elle qui va determiner si le projet est viable en mesurant l'engagement des mineurs.
+- Durant ces 180 jours les mineurs creeront la base de tokens necessaire au calcul final du minage global.
+- 180 jours nous aurons donc 20% du supply, a miner sera connus, le smart contract minera alors le reste des tokens (*5) et ils seront repartis dasn les different wallets 
+- foundation 50%, 
+- founder/creator/chain 6%, 
+- liquidity pool 10%, 
+- marketing 4%, 
+- Strategic reserve 10%
+
+Des que notre blockchain sera prete, nos transactions se feront via elle, et les frais de transactions seront repartis comme suit:
+- 33% foundation
+- 33% community rewards
+- 33% validators
+- 1% 3 founders pool
+
+- Le halving est necessaire pour ne pas avoir une production de token incontrollable.
+Cela stimule les joueurs a ne jamais manquer un minage.
+Tout comme le bitcoin, plus on avance dans le temps, plus les gains sont difficile d'acces (premier mois reward x1/jour, 2nd mois 0,5, ...), donc l'effort ne doit pas etre ralentit mais bien au contraire soutenu pour continuer a gagner des tokens tous les jours.
+
+- Le booster permet de demarrer aujourd'hui directement en minant 10 tokens par jours! Gain de temps absolu, rewards exponentiels.
+
+7. A la in de la saison 1, la pool de liquidite sera cree donnant une veritable Valeur au token.
+les tokens pourront etre:
+- vendus sur les dex
+- utilises pour payer des biens et des services sur notre market mondiale via l'app NAva PEACE
+- Stacker et peut etre plus encore!
+
+
+8. Chaque mineur pourra, s'il le souhaite s'enregistrer , cette fonction sera dans l'app "NAVA PEACE WORLD" pas celle du jeu, creer son catalogue de produits/services avec photos, prix, info..., pour presenter ses produits et/ou services. 
+
+Apres son enregistrement chaque commercant pourra partager une notification.
+Une seule offre par tranche de 24 heures a l'addresse de la communaute.
+Un offre tres speciale en quelque sorte. 
+Avec tous les details, par exemple, j'ai un restaurant et je souhaite promouvoir un diner pour le 4 decembre 2025.
+Mon nom de commercant est "Oriental restaurant"
+Ma localissation est Koh Phangan, Baantai..
+photos, location, details, offres max(si c'est un stock physique)
+Mon offre speciale: Diner spectacle le 4 decembre a 20h, all inclusive:
+- menu 5 plats (Samosa, tabouleh, Couscous, nougat glace, tiramisu au citron)
+- boissons non alcoolisees (boissons alcoolisees en sus)
+- the et cafe
+- spectacle 
+- service charge
+- Prix x NAVA PEACE
+- photos
+Reservation obligatoires
+Les dix premieres places vendues, 20% seront offert a l'association "La fain dasn le monde"
+
+Comment recevoir des paiements en NAVA ? Via notre build in wallet.
+
+9. 1 token par ami invite actif.
+il n'y a pas de bonus multi niveau de minage.
+
+10.Investir dans un NFT PEACE POWER a 20.000 $, ce nft donne des avantages uniques, tels que discount sur le merchandizing pour etre revendeur, invitation aux evenements annuels, aux conferences, acces au role de validateurs sur note blockchain et beaucoup, beaucoup plus.
+
+11.Self custodial wallet created by auto generation at creation.
+- Comme un wallet BITCOIN, une phrase SEED de 24 mots a ne pas perdre.
+- Cold wallet compatible
+
+12. 50% des tokens sont administres par la foundation "NAVA PEACE" en soutien aux victimes de guerre du passe, du present.
+Les projets finances seront:
+- aides alimentaires,
+- reconstructions avec nos volontaires du monde entier 
+- creation de centres de formations au technique de construction naturelle, energie verte, traitement de l'eau, permaculture, creation d'hydrogene, 3d printing pour recreer des objets du quotidien et plus plus plus!
+- fabrique de protheses via la 3D
